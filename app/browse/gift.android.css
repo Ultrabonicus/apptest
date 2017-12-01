@@ -1,0 +1,12 @@
+Image {
+	margin-bottom: 20;
+}
+Label {
+	text-align: center;
+	margin-bottom: 10;
+}
+Label.points {
+	font-size: 20px;
+	color: blue;
+	font-style: italic;
+}
